@@ -1,0 +1,94 @@
+.logo {
+    font-family: arial, sans-serif;
+    font-weight: bold;
+    font-size: 60px;
+    letter-spacing: -0.5px;
+    text-decoration: none;
+    color: white;
+    border-radius: 20px;
+    background-color: black;
+}
+.mov{
+   background-color: rgb(32, 32, 32);
+   color: white;
+   width: 20%;
+   border-radius: 10px;
+   margin-right: 5px;
+   display: inline-block;
+   vertical-align: top;
+}
+#GOT {
+    background-color: red;
+    width: 16%;
+    color: white;
+    border-radius: 10px;
+}
+.image {
+    display: inline-block;
+}
+.square-image {
+     width: 150px;
+    height: 150px;
+    object-fit: cover;
+}
+.chr {
+    border-radius: 20px;
+    width: 13%;
+    display: inline-block;
+    color: white;
+}
+#backg {
+    text-align: center;
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+    color: white;
+}
+.back {
+    background-image: url('https://cdn.bhdw.net/im/race-for-the-iron-throne-wallpaper-83849_w635.webp');
+    background-size: auto;
+}
+.body {
+    background-color: rgb(32, 32, 32);
+}
+h2 {
+    color: white;
+}
+a {
+    color: white;
+}
+#backgr {
+     text-align: center;
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+    color: white;
+}
+.bg {
+    background-image: url(https://wallpapers.com/images/hd/breaking-bad-walter-and-money-l4s2us2bgav0m0qy.jpg);
+    
+}
+.chrs {
+    border-radius: 20px;
+    width: 13%;
+    display: inline-block;
+    color: white;
+    background-color: rgb(32, 32, 32);
+}
+#backgro {
+     text-align: center;
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+    color: white;
+}
+.bgr {
+    background-image: url(https://static0.moviewebimages.com/wordpress/wp-content/uploads/sharedimages/2025/06/03112487_poster_w780.jpg);
+    background-size: cover;
+}
+.chra {
+        border-radius: 20px;
+    width: 13%;
+    display: inline-block;
+    color: white;
+}

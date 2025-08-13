@@ -1,0 +1,22 @@
+.logo {
+    font-family: arial, sans-serif;
+    font-weight: bold;
+    font-size: 60px;
+    letter-spacing: -0.5px;
+    text-decoration: none;
+    background-color: black;
+    color: white;
+    border-radius: 20px;
+}
+#footer p {
+    text-align: center;
+    color: gray;
+    
+}
+.body{
+    background-color: rgb(32, 32, 32);
+    color: white;
+}
+.body a {
+    color: white;
+}
