@@ -92,3 +92,32 @@ a {
     display: inline-block;
     color: white;
 }
+.bgro {
+    background-image: url(https://images-r2.thebrag.com/mw/uploads/2024/11/Day-of-the-Jackal-feature-image.png);
+    background-size: cover;
+}
+#backgrou {
+        text-align: center;
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+    color: white;
+}
+.chro {
+    border-radius: 20px;
+    width: 13%;
+    display: inline-block;
+    color: white;
+    background-color: red;
+}
+.bgrou {
+    background-image: url(https://cdn.bhdw.net/im/squid-game-mask-pink-soldiers-wallpaper-84571_w635.webp);
+background-size: cover;
+}
+#backgroun {
+           text-align: center;
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+    color: white;
+}
