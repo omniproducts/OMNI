@@ -1,0 +1,32 @@
+.logo {
+    font-family: arial, sans-serif;
+    font-weight: bold;
+    font-size: 60px;
+    letter-spacing: -0.5px;
+    text-decoration: none;
+    color: white;
+    border-radius: 20px;
+    background-color: black;
+}
+.casts {
+   display: flex;
+  gap: 10px; 
+}
+#casts img{
+width: 300px;
+height: 250px;
+border-radius: 30px;
+transition: transform 0.3s ease;
+}
+
+a {
+    color: white;
+}
+#body {
+    background-color: rgb(32, 32, 32);
+}
+#casts img:hover {
+    transform: scale(1.1);
+}
+
+

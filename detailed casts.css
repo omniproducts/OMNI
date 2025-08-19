@@ -1,0 +1,66 @@
+.mov{
+   color: white;
+   width: 20%;
+   border-radius: 10px;
+   margin-right: 5px;
+   display: inline-block;
+   vertical-align: top;
+}
+#body {
+    background-color: rgb(32, 32, 32);
+}
+a {
+    color: white;
+}
+.logo {
+   font-family: arial, sans-serif;
+    font-weight: bold;
+    font-size: 90px;
+    letter-spacing: -0.5px;
+    text-decoration: none;
+    color: white;
+    border-radius: 20px;
+    background-color: black;
+    height: 150px;
+}
+img {
+    width: 350px;
+height: 250px;
+border-radius: 30px;
+transition: transform 0.3s ease;
+}
+img:hover {
+    transform: translateY(-10px);
+}
+.image-text {
+    display: flex;             
+  align-items: center;
+  gap: 40px;
+}
+.image-text p {
+    font-size: 18px;
+    width: 40%;
+    color: white;
+}
+.image-text img {
+        width: 350px;
+height: 250px;
+border-radius: 30px;
+transition: transform 0.3s ease;
+}
+.text {
+    width: 70%;
+    color: white;
+}
+h2, h3{
+    color: white;
+}
+#tj {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1NVpMY8eh_E5vk5pxC-AdRasAkf-AaVqDuQ&s);
+background-size: cover;
+border-radius: 10px;
+}
+#pb {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2INjVf_icgUpcFeKj2LyBMaobHv51HHEqRQ&s);
+background-size: cover;
+}
