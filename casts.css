@@ -28,5 +28,7 @@ a {
 #casts img:hover {
     transform: scale(1.1);
 }
-
+a:hover {
+    color: blue;
+}
 

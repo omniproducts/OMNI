@@ -1,5 +1,6 @@
 .logo {
-    font-family: arial, sans-serif;
+    font-family: impact, Helvetica, sans-serif;
+    font-style: italic;
     font-weight: bold;
     font-size: 60px;
     letter-spacing: -0.5px;
@@ -185,4 +186,18 @@ border-radius: 45px;
     text-align: center;
     margin-left: auto;
     margin-right: auto;
+}
+a:hover {
+    color: blue;
+}
+#dN {
+     text-align: center;
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+    color: white;  
+}
+.dn {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9aSRS4AxdeLoEMwb4X33sM97NGpIH-K4Blw&s);
+background-size: cover;
 }
