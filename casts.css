@@ -1,12 +1,13 @@
 .logo {
-    font-family: arial, sans-serif;
-    font-weight: bold;
+    font-family: impact, Helvetica, sans-serif;
     font-size: 60px;
     letter-spacing: -0.5px;
     text-decoration: none;
     color: white;
-    border-radius: 20px;
-    background-color: black;
+     width: 12%;
+    border-style: solid;
+    border-radius: 40px;
+    text-align: center;
 }
 .casts {
    display: flex;
@@ -30,5 +31,29 @@ a {
 }
 a:hover {
     color: blue;
+}
+#home {
+    border-top-style: solid;
+    border-bottom-style: solid;
+    border-top-color:  rgb(117, 117, 117);
+    border-bottom-color:  rgb(117, 117, 117);
+}
+#sec_lists {
+    border-top-style: solid;
+    border-bottom-style: solid;
+    border-top-color:  rgb(117, 117, 117);
+    border-bottom-color:  rgb(117, 117, 117);
+}
+#casts {
+      border-top-style: solid;
+    border-bottom-style: solid;
+    border-top-color:  rgb(117, 117, 117);
+    border-bottom-color:  rgb(117, 117, 117);
+}
+#dcasts {
+          border-top-style: solid;
+    border-bottom-style: solid;
+    border-top-color:  rgb(117, 117, 117);
+    border-bottom-color:  rgb(117, 117, 117);
 }
 
